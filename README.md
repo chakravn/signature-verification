@@ -25,7 +25,7 @@ The models aims to learn the embeddings of 2 separate images fed into the Nueral
 1. Create a Sagemaker notebook instance with the instance type as 'ml.t2.medium'
 2. Once the Notebook instance is "In Service", clone this git repo in the Jupyter environment
 3. Run "Data_prep_v2.ipynb" notebook to prepare the training/validation dataset
-4. Run "Data_prep_v2.ipynb" notebook to train and deploy the model with Amazon Sagemaker followed by Inference
+4. Run "Signature_Verification_Sagemaker.ipynb" notebook to train and deploy the model with Amazon Sagemaker followed by Inference
 5. Refer to "train.py" script used for training the model
 
 
